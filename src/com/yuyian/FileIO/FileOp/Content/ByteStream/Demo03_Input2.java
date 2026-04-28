@@ -1,4 +1,4 @@
-package com.yuyian.FileIO.FileOp.Content;
+package com.yuyian.FileIO.FileOp.Content.ByteStream;
 
 import java.io.FileInputStream;
 import java.io.IOException;
